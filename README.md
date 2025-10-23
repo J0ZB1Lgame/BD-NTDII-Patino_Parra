@@ -1,1 +1,1 @@
-# BD-NTDII---Patino_Parra
+# [NTD] Base de Datos II - Patiño_Parra
